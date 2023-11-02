@@ -1,0 +1,19 @@
+Câu 1:
+-List là một kiểu dữ liệu tập hợp (collection) 
+có thứ tự, có thể thay đổi, và cho phép chứa các 
+phần tử trùng lặp. Mỗi phần tử trong list được đánh 
+chỉ mục bắt đầu từ 0.
+
+-Dictionary là một kiểu dữ liệu tập hợp không có 
+thứ tự, có thể thay đổi, và lưu trữ các phần tử 
+theo cặp key-value. Mỗi phần tử trong dictionary 
+được định danh bằng một key duy nhất.
+
+Câu 3:
+C
+
+Câu 4:
+D
+
+Câu 5:
+A
